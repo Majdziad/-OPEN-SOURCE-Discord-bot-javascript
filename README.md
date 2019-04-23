@@ -1,5 +1,4 @@
 # Discord-bot-javascript (Open source discord bot)
-coming soon
 
 
 
