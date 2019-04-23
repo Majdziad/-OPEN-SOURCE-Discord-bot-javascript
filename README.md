@@ -3,6 +3,5 @@ coming soon
 
 
 
-
-* what you need to change:
-1) Bot token (simply by going to token.json and put your bot token there) 
+What you need to change:
+* Bot token (simply by going to token.json and put your bot token there) 
