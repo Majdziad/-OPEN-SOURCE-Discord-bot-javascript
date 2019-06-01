@@ -1,5 +1,5 @@
 # Discord-bot-javascript (Open source discord bot)
-
+Join my Discord server: https://discord.gg/mgywA7b
 
 
 What you need to change:
