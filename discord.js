@@ -39,7 +39,7 @@ bot.on("message", async message => {
 
   let x = ["hello", "hi", "hey"];
   for (i = 0 ; i < x.length ; i++) {
-  if (message.content.toLowerCase() === x[i]) return message.channel.send("Hello! :D");}
+  if (message.content.toLowerCase() === x[i]) return message.channel.send("Hello! How are you today?");}
 
   if (cmd === `${prefix}delete`) {
   const deleteCount = parseInt(args[0], 10);
