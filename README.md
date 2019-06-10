@@ -4,6 +4,6 @@ Join my Discord server: https://discord.gg/mgywA7b
 What you need to change:
 * Bot token (simply by going to token.json and put your bot token there) 
 
-CONTRIBUTORS:
+#2CONTRIBUTORS:
 * GitHub: Majdziad (Majd Findakly)
 * GitHub: Foxini
