@@ -5,5 +5,5 @@ What you need to change:
 * Bot token (simply by going to token.json and put your bot token there) 
 
 CONTRIBUTORS:
-* Majd Findakly (GitHub: Majdziad)
+* GitHub: Majdziad (Majd Findakly)
 * GitHub: Foxini
