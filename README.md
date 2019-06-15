@@ -1,5 +1,5 @@
 <h1 align="center">OPEN SOURCE DISCORD BOT</h1>
-Join my Discord server: https://discord.gg/mgywA7b
+<p align="center">Join my Discord server: https://discord.gg/mgywA7b</p>
 
 <h4 align="center">What you need to do:</h4>
 <p align="center">1) Changing the bot token (simply by going to token.json and replace it with your token) *NOTE: Never share your token*</p>
