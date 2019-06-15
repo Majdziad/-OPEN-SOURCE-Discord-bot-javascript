@@ -5,5 +5,5 @@ Join my Discord server: https://discord.gg/mgywA7b
 * Bot token (simply by going to token.json and replace it with your token) *Never share your token* 
 
 #### CONTRIBUTORS:
-* GitHub: Majdziad (Majd Findakly)
+* GitHub: Majdziad (Majd Findakly) ![Image description](https://avatars2.githubusercontent.com/u/41499505?s=400&u=7df44029a75892f59537f8d5cfa527afb8d16aa7&v=4)
 * GitHub: Foxini
