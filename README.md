@@ -8,5 +8,5 @@ Join my Discord server: https://discord.gg/mgywA7b
 <p align="center">
   <img src="https://avatars2.githubusercontent.com/u/41499505?s=400&u=7df44029a75892f59537f8d5cfa527afb8d16aa7&v=4" width="150" alt="accessibility text">
 </p>
-* GitHub: Majdziad (Majd Findakly)
+* GitHub: Majdziad (Majd Findakly)<br>
 * GitHub: Foxini
