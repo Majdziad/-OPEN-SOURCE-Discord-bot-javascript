@@ -1,4 +1,4 @@
-# Discord-bot-javascript (Open source discord bot)
+<h1 align="center">Discord-bot-javascript (Open source discord bot)</h1>
 Join my Discord server: https://discord.gg/mgywA7b
 
 #### What you need to change:
