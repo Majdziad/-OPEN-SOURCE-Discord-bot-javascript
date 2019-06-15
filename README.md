@@ -1,7 +1,7 @@
 <h1 align="center">Discord-bot-javascript (Open source discord bot)</h1>
 Join my Discord server: https://discord.gg/mgywA7b
 
-#### What you need to change:
+<h4 align="center">What you need to change:</h4>
 * Bot token (simply by going to token.json and replace it with your token) *Never share your token* 
 <h4 align="center">
 CONTRIBUTORS:
