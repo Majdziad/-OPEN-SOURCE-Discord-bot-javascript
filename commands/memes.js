@@ -3,7 +3,7 @@ const snek = module.require("snekfetch");
 const api = "https://dog.ceo/api/breeds/image/random";
 const superagent = require("superagent");
 const colors = require("../colors.json");
-
+//not working rn
 module.exports.run = async (bot, message, args) => {
     let msg = await message.channel.send("Generating...")
 
