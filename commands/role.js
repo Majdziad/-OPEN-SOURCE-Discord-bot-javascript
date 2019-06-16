@@ -1,5 +1,4 @@
 const { RichEmbed } = require('discord.js');
-const superagent = require("superagent");
 const colors = require("../colors.json");
 
 module.exports.help = { name : "role" }
