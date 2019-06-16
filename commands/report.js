@@ -1,4 +1,6 @@
 const Discord = require("discord.js");
+const superagent = require("superagent");
+const colors = require("../colors.json");
 
 module.exports.run = async (bot, message, args) => {
     let rUser = message.guild.member(message.mentions.users.first() || message.guild.members.get(args[0]));

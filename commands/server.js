@@ -1,4 +1,7 @@
 const Discord = require("discord.js");
+const superagent = require("superagent");
+const colors = require("../colors.json");
+
 module.exports.run = async (bot, message, args) => {
 
   let sicon = message.guild.iconURL;

@@ -1,4 +1,7 @@
 const { RichEmbed } = require('discord.js');
+const superagent = require("superagent");
+const colors = require("../colors.json");
+
 module.exports.help = { name : "role" }
 exports.run = (client, message, args) => {
     // Tries to get the first mentioned role or a role ID or a role name (role names are case sensitive)

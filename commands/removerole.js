@@ -1,4 +1,6 @@
 const Discord = require("discord.js");
+const superagent = require("superagent");
+const colors = require("../colors.json");
 
 module.exports.run = async (bot, message, args) => {
   if(!message.member.hasPermission("MANAGE_MEMBERS")) return message.reply("Sorry, you can't do that.");
@@ -14,10 +16,10 @@ module.exports.run = async (bot, message, args) => {
   try{
     await rMember.send(`RIP, you lost the ${gRole.name} role.`)
   }catch(e){
-    message.channel.send(`RIP to <@${rMember.id}>, We removed ${gRole.name} from them. We tried to DM them, but their DMs are locked.`)
+      message.channel.send(`RIP to <@${rMember.id}>, We removed ${gRole.name} from them. We tried to DM them, but their DMs are locked.`);
   }
 }
 
 module.exports.help = {
-name: "removerole"
+    name: "removerole"
 }

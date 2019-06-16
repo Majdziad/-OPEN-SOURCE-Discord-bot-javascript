@@ -1,4 +1,6 @@
 const Discord = require("discord.js");
+const superagent = require("superagent");
+const colors = require("../colors.json");
 
 module.exports.run = async (bot, message, args) => {
     const rolled = Math.floor(Math.random() * 2) + 1;
@@ -14,12 +16,13 @@ module.exports.run = async (bot, message, args) => {
         .setColor("0x00bee8");
     if (rolled == "1") {
             message.channel.send(tailembed);
-        
+
     }
     else {
         message.channel.send(headembed);
     }
 }
+
 module.exports.help = {
     name: "bet"
 }
